@@ -1,0 +1,9 @@
+@charset "utf-8";
+img{
+    width: 100px;
+    height: 100px;
+}.text-a{
+    color: rgb(102, 68, 5);
+}.bg-pink{
+    background-color: rgb(253, 216, 222);
+}

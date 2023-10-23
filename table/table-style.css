@@ -1,0 +1,13 @@
+@charset "utf-8";
+body{
+   background-color: rgb(253, 249, 249);
+}table,td,th{
+    border: solid 3px rgb(199, 167, 208);
+    border-collapse: collapse;
+}img{
+    width: 7rem;
+}table th{
+    padding: 20px,16px;
+}table td{
+    padding: 10px;
+}
