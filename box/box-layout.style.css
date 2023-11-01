@@ -1,0 +1,29 @@
+@charset "utf-8";
+.box{
+    width: 25%;
+    margin: 5px;
+    padding: 15px;
+    background-color: rgb(245, 218, 233);
+    object-fit: contain; 
+    text-align: center;
+    
+}a{
+    width: 100%;
+    display: block;
+    text-align: center;
+    background-color: blanchedalmond;
+    color: rgb(2, 52, 52);
+}.box1{
+    justify-content: space-evenly;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+
+}p{
+    width: 90%;
+}h2{
+    width: 90%;
+}h1{
+    text-align: center;
+    color: palevioletred;
+}
