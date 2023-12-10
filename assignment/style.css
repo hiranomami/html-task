@@ -1,0 +1,29 @@
+@charset "utf-8";
+header {
+    width: 100%;
+}header nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    background-color:#f3c1ef;
+}header ul li{
+    width: 300%;
+    text-align: center;
+}header ul li a{
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    color:white;
+}header ul li + li{
+    border-left: 2px solid white;
+}header li:hover{
+    background-color: #ea85e3;
+    cursor: pointer;
+    transform: scale(1,2);
+}b{
+    font-size: 350%;
+    
+}body{
+    min-width: 700px;
+}
